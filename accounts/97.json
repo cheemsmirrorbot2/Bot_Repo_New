@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bright-airport-332107",
+  "private_key_id": "fcbcd3e33b5c9c30190728a25e42158b82270618",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCzqoAr59GGdeue\ngg+Szkqg1L8WgsrWuZcp+PFoVkgDE2gjgGAWhMJeGAaTzfLyFvOgL7oXBwCbCOfg\n1Mb6Tj8fHz+WAX7i42WjaVEWb10pjDu+b1VYtfvIH1RgCpDTMzBvJvIaXgxc+pBB\n1BRRjfJQ7Lp6/OHm3203R9nQdEXI2O3ylumhKLRqyUlXZNfGk0R3IhxKIVktBXe2\nT4itfW7X3UI3XAwHkKQ3Y7i3Xrnpb9wYNSogIXYrqD4FtIDBRwrFyTkn6G98Iz8N\nHVkZpPv0OziMe9uVOVULlNMHoMMgbLGoJ6rBiO9GSnrLn1ZLNMdiCU9rZmet3Mel\nTOkBxGK7AgMBAAECggEAPhIGFOUSaIs9uzXAzp2xf63wVIUcMaHNnSURtdO1Lkba\noAU+bRkxk1NmllK8/7E5OtqyRjlXlrg1b+Hi2mAFA6oGjDr5DMa1+wYsCv2vaGa3\nzztkd3DrywAz5LhRv318WrJQSxa527d+9hcga+qH0Dhw1oOeQeZns4UBtbgt0cy3\ne10KUGo5V6cOwdAjiQYdvycsXz/1aTUODYNKPbfInn5lDEpAJKnEztz4/XIYkuj5\nc3cVyjP4ypMyRlEJi4tX7pFZ6yHWOGka5n8aj+40LztToJPC8WfnFRHm6/xZOda2\nJ1xMJKW8wDyX5tjrfMK4xrF4pYiG7P0huTsGvOaYYQKBgQDo5r+/AGaHyEKKU4w4\ns+ooUos7dEqH+h6yvvalmXaXRBG2Wo9Z2jhPY2fsIAcmCTL8Al9hHz/hjEWsTQss\nwRQrXFEqXKmbhevdb+Am4UesbZSdprW8bAg8B617J272DHKgBouAmLNXr9/x5AGF\nqetFx8vI/wTeCKvdoKxYJ+xAoQKBgQDFfCHoQiB6+u2+y8cO5N9cp989nPIkwkgf\nX6LV3zf4r474am9U+LgZZJ76jcDJNw+pWbKES5HxLD5iSLdZl0vzf9GuJnzEgLVE\nKjMDi7ykPH1+4AOxJSVPhmfMZ1FIOPeh4vrnOvRjEvMYXsBQQIWz2yBjvXb/ii3E\nuvBVsf152wKBgAEkCDJmTRpDJ9hHmns4nl/+L4JmCmtqFTZo6wpamxMYmUGcZfFZ\nuUbiRMMKUR6lkuNbG559KbHwHvM+GVzpwTCJLjiX5ZjGaiZWgvGNzu0QSFcRVviK\nSuwIWZgt1EROQU15WruRg+ddDCrCJCPEdkuMM/pTDXIM9tKKE+4GnAihAoGBAJbS\nywKbHjtOUSyabRiO65fUDcb8imJQjsyHOdGlfRXM3qASiZyXp+Kc2l34zPffuXJZ\nMuGe5YMPi0V8y6r8xeDeCcG7WyaoNcgtgnB+1D+Kgz3W0HsGJ4yo1bViYs2J1HYq\n5/yZJfRUkJxYIQAphvNpsz75gFyBp5rMOqj4GuJpAoGBAIfp7oZN4YufFIgyKMhw\nC3/IWRVN3EMSEytH983z+2wXkdnExSNAxykwb/3iPysOn2XiDxYJVoNrwXaXy+uT\nsZuxmUDCDs0DDe7AvIcw39BuMGLYqPK43X26n7k0S2pUVXggAONOCoq49Ei+Sl+k\nYaPaB4CStfmg39uz2I6pa8qO\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-xv2ln44qv4qh8ocjeig0h95y0t@bright-airport-332107.iam.gserviceaccount.com",
+  "client_id": "102542813385609402482",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-xv2ln44qv4qh8ocjeig0h95y0t%40bright-airport-332107.iam.gserviceaccount.com"
+}
